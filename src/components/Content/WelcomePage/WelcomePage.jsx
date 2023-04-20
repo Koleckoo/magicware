@@ -23,7 +23,7 @@ export default function WelcomePage () {
         </div>
         <div className="home__options-register">
             <h5 className="home__options-register-title">Create a new account</h5>
-            <h5 className="home__options-register-title">Are you traval agency?</h5>
+            <h5 className="home__options-register-title">Are you travel agency?</h5>
             <p className="home__options-register-description">Access to FREE online tools to help you publish faster adn easier.</p>
             <button className="home__options-register-btn">Register</button>
         </div>
